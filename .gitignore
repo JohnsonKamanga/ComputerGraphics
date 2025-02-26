@@ -1,4 +1,5 @@
 dependencies
+glfw3.dll
 include
 .vscode
 *.exe
