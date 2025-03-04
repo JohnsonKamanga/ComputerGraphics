@@ -1,5 +1,8 @@
+*
 dependencies
 glfw3.dll
 include
 .vscode
 *.exe
+glad.c
+!*.cpp
