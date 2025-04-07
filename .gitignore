@@ -1,8 +1,8 @@
-*
 dependencies
+build
 glfw3.dll
 include
+examples
 .vscode
 *.exe
 glad.c
-!*.cpp
